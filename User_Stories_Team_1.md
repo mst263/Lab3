@@ -95,7 +95,7 @@ Effort Estimation
 
 Acceptance Criteria
 
-* **Given:** 	\<context of action\><br><br>
+* **Given:** 	\hi\><br><br>
 	
 * **When :** 	\<some action is completed\><br><br>
 	
