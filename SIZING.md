@@ -150,7 +150,7 @@ Acceptance Criteria
 	
 * **When :** 	I present a mockup of the structure and layout of key pages and transitions at the team meeting <br><br>
 	
-* **Then :** 	The team reaches a majority agreement on the basic design and required features <br><br>
+* **Then :** 	The team reaches a majority agreement on the basic design and required features <br><br> 
 	
 <hr><hr><br><br>
 
