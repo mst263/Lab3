@@ -201,11 +201,11 @@ Effort Estimation
 
 Acceptance Criteria
 
-* **Given:** 	test \<context of action\><br><br>
+* **Given:** 	That I am a Developer at company 'x' \<context of action\><br><br>
 	
-* **When :** 	\<some action is completed\><br><br>
+* **When :** 	I obtain a working knowlege of how to build the backend of a website<br><br>
 	
-* **Then :** 	\<set of observable outcomes\><br><br>
+* **Then :** 	I can contribute to the behind-the-scenes development of a website's data storage methods and processing requirments.<br><br>
 	
 <hr><hr><br><br>
 
