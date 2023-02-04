@@ -148,10 +148,9 @@ Acceptance Criteria
 
 * **Given:** 	I am in the role of team member <br><br>
 	
-* **When :** 	I start work on a new feature <br><br>
+* **When :** 	I present a mockup of the structure and layout of key pages and transitions at the team meeting <br><br>
 	
-* **Then :** 	I can access a wireframe that shows the structure and layout of key pages <br><br>
-                AND I can access the design mockup <br><br>
+* **Then :** 	The team reaches a majority agreement on the basic design and required features <br><br>
 	
 <hr><hr><br><br>
 
