@@ -17,11 +17,11 @@ Effort Estimation
 
 Acceptance Criteria
 
-* **Given:** 	\<context of action\><br><br>
+* **Given:** 	I am the product manager for this project<br><br>
 	
-* **When :** 	\<some action is completed\><br><br>
+* **When :** 	When the current week has ended<br><br>
 	
-* **Then :** 	\<set of observable outcomes\><br><br>
+* **Then :** 	Updated burndown chart with features that have been implemented as indicated by passing test results.<br><br>
 	
 <hr><hr><br><br>
 
@@ -43,11 +43,11 @@ Effort Estimation
 
 Acceptance Criteria
 
-* **Given:** 	\<context of action\><br><br>
+* **Given:** 	I am a developer visiting "x" website <br><br>
 	
-* **When :** 	\<some action is completed\><br><br>
+* **When :** 	I run the data extraction scripts><br><br>
 	
-* **Then :** 	\<set of observable outcomes\><br><br>
+* **Then :** 	My local database is populated with tables containg the full set of data from website "X." ><br><br>
 	
 <hr><hr><br><br>
 
@@ -69,11 +69,11 @@ Effort Estimation
 
 Acceptance Criteria
 
-* **Given:** 	\<context of action\><br><br>
+* **Given:** 	As developer a folder to extract data from with 3 files<br><br>
 	
-* **When :** 	\<some action is completed\><br><br>
+* **When :** 	when I execute my python script with the folder specified<br><br>
 	
-* **Then :** 	\<set of observable outcomes\><br><br>
+* **Then :** 	A text file is produced with the average of value of the first datafile, the sum of entries in the second datafile, and the standard devation of the third datafile.<br><br>
 	
 <hr><hr><br><br>
 
