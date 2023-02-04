@@ -149,11 +149,11 @@ Effort Estimation
 
 Acceptance Criteria
 
-* **Given:** 	This is a test\<context of action\><br><br>
+* **Given:** 	\<I am a team member using GitHub to collaborate on a project\><br><br>
 	
-* **When :** 	\<some action is completed\><br><br>
+* **When :** 	\<I make changes to processes I will include detailed explainations of those changes\><br><br>
 	
-* **Then :** 	\<set of observable outcomes\><br><br>
+* **Then :** 	\<All Team members will have knowledge of the updates and changes\><br><br>
 	
 <hr><hr><br><br>
 
