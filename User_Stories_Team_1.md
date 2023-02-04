@@ -201,7 +201,7 @@ Effort Estimation
 
 Acceptance Criteria
 
-* **Given:** 	That I am a Developer at company 'x' \<context of action\><br><br>
+* **Given:** 	That I am a Developer at company 'x' <br><br>
 	
 * **When :** 	I obtain a working knowlege of how to build the backend of a website<br><br>
 	
