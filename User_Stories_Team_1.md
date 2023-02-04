@@ -148,7 +148,7 @@ Effort Estimation
 
 Acceptance Criteria
 
-* **Given:** 	\<context of action\><br><br>
+* **Given:** 	This is a test\<context of action\><br><br>
 	
 * **When :** 	\<some action is completed\><br><br>
 	
