@@ -95,11 +95,11 @@ Effort Estimation
 
 Acceptance Criteria
 
-* **Given:** 	\hi\><br><br>
+* **Given:** 	\<A representative data tuple and a mock-up of the proposed database.\><br><br>
 	
-* **When :** 	\<some action is completed\><br><br>
+* **When :** 	\<I insert the tuple via the user API.\><br><br>
 	
-* **Then :** 	\<set of observable outcomes\><br><br>
+* **Then :** 	\<I see accurate computations and values in the associated table columns.\><br><br>
 	
 <hr><hr><br><br>
 
