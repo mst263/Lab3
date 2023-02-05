@@ -4,7 +4,7 @@
 
 **Team Name:** TBD
 
-**Weekly Meeting Time:** TBD
+**Weekly Meeting Time:** Monday 3 pm MST
 
 <hr>
 
@@ -17,7 +17,7 @@ Ben Allen
 Micah Simmerman
 Tory Swensen
 
-**Meeting Recording:** TBD
+**Meeting Recording:** https://drive.google.com/file/d/1hscer70Su8LoVsHH5ulDjh7t0MatAzgt/view
 
 ### User Stories:
 <hr>
