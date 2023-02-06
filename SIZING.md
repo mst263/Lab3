@@ -2,7 +2,7 @@
 
 **Team Number:** 1
 
-**Team Name:** TBD
+**Team Name:** Hooli Strike Team
 
 **Weekly Meeting Time:** Monday 3 pm MST
 
