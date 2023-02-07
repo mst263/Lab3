@@ -152,7 +152,7 @@ Acceptance Criteria
 &nbsp;&nbsp;**AND** I share the designs with the team via a shared drive<br><br>
 
 * **Then :**    All team members, including nontechnical stakeholders, are able to understand, discuss, and make changes to the designs  
-&nbsp;&nbsp;**AND** All team members have access to the most up-to-date versions of the designs<br><br>
+&nbsp;&nbsp;**AND** all team members always have access to the most up-to-date versions of the designs<br><br>
 	
 <hr><hr><br><br>
 
