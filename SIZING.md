@@ -146,11 +146,13 @@ Effort Estimation
 
 Acceptance Criteria
 
-* **Given:** 	I am in the role of team member <br><br>
+* **Given:** 	I am in the role of team member<br><br>
 	
-* **When :** 	I present a mockup of the structure and layout of key pages and transitions at the team meeting <br><br>
-	
-* **Then :** 	The team reaches a majority agreement on the basic design and required features <br><br> 
+* **When :** 	I create simple Lo-Fi sketches of the UI and a Storyboard for the project to match the user stories  
+&nbsp;&nbsp;**AND** I share the designs with the team via a shared drive<br><br>
+
+* **Then :**    All team members, including nontechnical stakeholders, are able to understand, discuss, and make changes to the designs  
+&nbsp;&nbsp;**AND** All team members have access to the most up-to-date versions of the designs<br><br>
 	
 <hr><hr><br><br>
 
@@ -231,4 +233,3 @@ Acceptance Criteria
 * **Then :** 	I can contribute to the behind-the-scenes development of a website's data storage methods and processing requirments.<br><br>
 	
 <hr><hr><br><br>
-
