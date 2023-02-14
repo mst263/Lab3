@@ -95,11 +95,11 @@ Effort Estimation
 
 Acceptance Criteria
 
-* **Given:** 	\<A representative data tuple and a mock-up of the proposed database.\><br><br>
+* **Given:** 	\<That I am a database user, provided with the appropriate login credentials.\><br><br>
 	
-* **When :** 	\<I insert the tuple via the user API.\><br><br>
+* **When :** 	\<I insert a representative tuple through the user input screen or feature.\><br><br>
 	
-* **Then :** 	\<I see accurate computations and values in the associated table columns.\><br><br>
+* **Then :** 	\<I see accurate values in the affected table columns.\><br><br>
 	
 <hr><hr><br><br>
 
