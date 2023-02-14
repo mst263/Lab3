@@ -9,9 +9,9 @@ Team Number: 1 "Hooli-Strike Team"
 
 Team/Product: Sudoku Tutor 
 
-Team members: [(Paul, , ); (Tory, , ); (Ben, , ); (Matt, , ); (Micah Simmerman, Micah614, jasi9001@colorado.edu) 
+Team members list the name, git username, and email for each member: 
+    [(Paul, , ); (Tory, , ); (Ben, , ); (Matt, , ); (Micah Simmerman, Micah614, jasi9001@colorado.edu) 
 
-list the name, git username, and email for each member.
 
 Day/Time/TimeZone for the scheduled team weekly meeting (30 minutes via Zoom)
     Weekly Team Meetings are on Mondays at 3:00 pm MST
